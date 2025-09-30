@@ -1,6 +1,13 @@
 title: About Tobias Gunkel
 remote_theme: "brianmaierjr/uni"
-#theme: minima
+#remote_theme: "sharu725/online-cv"
+#remote_theme: "sabhn/portfolio"
+description: Coming Soon
+sharing_image:
+  - platform: GitHub
+    url: https://github.com/tobigun
+  - platform: Xing
+    url: https://www.xing.com/profile/Tobias_Gunkel4
 markdown: kramdown
 kramdown:
   input: GFM
