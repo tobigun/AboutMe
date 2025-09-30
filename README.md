@@ -1,3 +1,3 @@
 ---
-layout: half
+layout: full
 ---
