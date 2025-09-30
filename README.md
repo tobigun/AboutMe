@@ -1,3 +1,1 @@
----
-layout: full
----
+Simple Web-Page
