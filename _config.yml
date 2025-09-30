@@ -2,8 +2,9 @@ title: About Tobias Gunkel
 remote_theme: "brianmaierjr/uni"
 #remote_theme: "sharu725/online-cv"
 #remote_theme: "sabhn/portfolio"
-description: Coming Soon
-sharing_image:
+content: Coming Soon
+#sharing_image:
+social:
   - platform: GitHub
     url: https://github.com/tobigun
   - platform: Xing
