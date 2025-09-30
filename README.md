@@ -1,1 +1,3 @@
-# AboutMe
+---
+layout: half
+---
